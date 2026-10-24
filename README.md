@@ -18,8 +18,10 @@ Dataset.csv  →  Task 1 (cleaning)  →  Netflix_Cleaned.csv  →  Tasks 2, 3 a
 Tasks 2, 3 and 4 read Netflix_Cleaned.csv, which is stored in the Task1_Data_Cleaning folder. To run those notebooks, place a copy of the file next to them.
 
 How to run
-1.Install the libraries: pip install pandas numpy matplotlib seaborn scikit-learn statsmodels jupyter
+1.Install the libraries: pip install pandas numpy matplotlib seaborn scikit-learn statsmodels jupyter.
+
 2.Open a notebook in Jupyter.
+
 3.Make sure Netflix_Cleaned.csv is in the same folder as the notebook, then run the cells from top to bottom.
 
 Kaushika Dewmini Data Science Intern, Auspify Technologies
